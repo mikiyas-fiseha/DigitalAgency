@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
+  <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY) -->
 
   <br />
   <br />
@@ -13,7 +13,7 @@
 
   Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mikiyas-fiseha.github.io/DigitalAgency/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -22,7 +22,7 @@
 ### Demo Screeshots
 
 ![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
+<!-- 
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/pixology.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee). -->
 
 ### License
 
